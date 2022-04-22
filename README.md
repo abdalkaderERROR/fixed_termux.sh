@@ -11,4 +11,4 @@ chmod 755 *
 
 ./fixed_termux.sh
 
-and jood job broo  
+and good job broo  
